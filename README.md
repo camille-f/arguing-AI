@@ -1,2 +1,4 @@
-# argumentative-AI
-Research project on Argumentative Artificial Intelligence
+# arguing-AI
+Research project on Arguing Artificial Intelligence
+
+Supervised by JL Dessalles
