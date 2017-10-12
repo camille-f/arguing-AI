@@ -1,4 +1,4 @@
 # arguing-AI
-Research project on Argumentative Artificial Intelligence
+Research project on Arguing Artificial Intelligence
 
 Supervised by JL Dessalles
